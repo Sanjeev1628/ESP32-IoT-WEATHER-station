@@ -1,7 +1,7 @@
 
 {
   "version": 1,
-  "author": "ChatGPT",
+  "author": "sanjeev",
   "editor": "wokwi",
   "parts": [
     {
